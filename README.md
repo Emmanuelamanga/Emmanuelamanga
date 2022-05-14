@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm <a href="#" target="_blank">Emmanuel Amanga</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-amanga-b0229b167/)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://sarwarsunjid.epizy.com/) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/splitz_sunjid/) -->
+<!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sarwarsunjid) -->
+<!-- [![Telegram Badge](https://img.shields.io/badge/Stackoverflow-e0e0e0?style=flat-square&logo=stackoverflow&logoColor=ec7c23)](https://stackoverflow.com/users/7094919/sunjid) -->
 
-<!--
-**Emmanuelamanga/Emmanuelamanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here! <!-- &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sunjid.sunjid) -->
 
-Here are some ideas to get you started:
+I am a Full-Stack developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have two years of hands-on experience in planning, developing and implementing applications. Ready for developing medium to large scale projects and ready to start your project anytime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Get Idea about Personal Stuffs:**
+
+- <b>Front-end</b> : HTML5 | CSS3 | Bootstrap 4 | Bootstrap 5 | Javascript | Jquery | Vue | 
+- <b>Back-end</b> : PHP | Laravel 
+- <b>Framework</b> : Laravel MVC | Vuejs 
+- <b>Database</b> : Mysql | SQLServer
+- <b>CMS</b> : Wordpress 
+- <b>Version Control System </b> : Github | BitBucket
