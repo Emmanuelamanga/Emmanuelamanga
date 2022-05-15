@@ -11,9 +11,9 @@ I am a Full-Stack developer with vast array of knowledge in many different areas
 
 **Get Idea about Personal Stuffs:**
 
-⭐ <b>Front-end</b> : HTML5 | CSS3 | Bootstrap 4 | Bootstrap 5 | Javascript | Jquery | Vue | </br>
-⭐ <b>Back-end</b> : PHP | Laravel </br>
-⭐ <b>Framework</b> : Laravel MVC | Vuejs </br>
-⭐ <b>Database</b> : Mysql | SQLServer </br>
-⭐ <b>CMS</b> : Wordpress </br>
-⭐ <b>Version Control System </b> : Github | BitBucket </br>
+⭐ <b>Front-end</b> : [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) | [Javascript](https://www.javascript.com/) | [Jquery](https://jquery.com/) | [Vue](https://vuejs.org/guide/quick-start.html) | </br>
+⭐ <b>Back-end</b> : [PHP](https://www.php.net/) | [Laravel](https://laravel.com/) </br>
+⭐ <b>Framework</b> : [Laravel MVC](https://laravel.com/) | [Vuejs](https://vuejs.org/guide/quick-start.html) </br>
+⭐ <b>Database</b> : [Mysql](https://www.mysql.com/) | [SQLServer](https://www.microsoft.com/en-us/sql-server) </br>
+⭐ <b>CMS</b> : [Wordpress](https://wordpress.com/) </br>
+⭐ <b>Version Control System </b> : [Github](https://github.com/)</br>
