@@ -1,5 +1,5 @@
 ### Hi there, I'm <a href="https://emmanuelamanga.github.io/" target="_blank">Emmanuel Amanga</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-amanga-b0229b167/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-amanga-b0229b167/) [![Netlify Status](https://api.netlify.com/api/v1/badges/c5620a36-3511-4475-b710-c6df01be1c32/deploy-status)](https://app.netlify.com/sites/emmanuelamanga/deploys)
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://sarwarsunjid.epizy.com/) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/splitz_sunjid/) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sarwarsunjid) -->
